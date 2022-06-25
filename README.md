@@ -1,4 +1,4 @@
-# talks
+# talks 🎙️
 
 The slide deck of every tech talk I have given.
 
